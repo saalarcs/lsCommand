@@ -99,5 +99,4 @@ A C program to list directory files and information similar to the ls command ac
 #
 #  			i.e. ./ls_command -o 3650 -y 9862 -l 40000 -s 10000 /home/file
 #  			i.e. ./ls_command -o 3650 -y 9862 -l 40000 -s 10000
-#
-#----------------------------------------------------------------------------------------*/
+
